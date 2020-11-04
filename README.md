@@ -13,3 +13,6 @@
 ## License
 
 [MIT License](LICENSE)
+
+This project used libcluon:
+[libcluon](LICENSE_LIBCLUON)
