@@ -14,4 +14,4 @@ This repository is for the project "Robotic Manipulation using Deep Reinforcemen
 
 ## License
 
-[MIT License](LICENSE)
+This project is released under the terms of the [MIT License](LICENSE)
