@@ -1,18 +1,17 @@
 # Robotic Manipulation using Linear Genetic Programming and Visual Feedback
 
-## Humanoid Robotics course at Chalmers University of Technology
+This repository is for the project "Robotic Manipulation using Deep Reinforcement Learning and Visual Feedback" in the course "Humanoid Robotics (TIF160)" at the Chalmers University of Technology.
 
-### Authors 
+## Dependencies
+* [Libcluon](https://github.com/chrberger/libcluon)
+
+## Authors 
 
 * Aren Moosakhanian 
 * Jan Paul Theune 
 * Jan Schiffeler
 * Sourab Bapu Sridhar
 
-
 ## License
 
 [MIT License](LICENSE)
-
-This project used libcluon:
-[libcluon](LICENSE_LIBCLUON)
