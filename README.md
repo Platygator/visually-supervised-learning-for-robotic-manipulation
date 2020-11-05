@@ -5,9 +5,9 @@
 ### Authors 
 
 * Aren Moosakhanian 
+* Jan Paul Theune 
 * Jan Schiffeler
 * Sourab Bapu Sridhar
-* Jan Paul Theune 
 
 
 ## License
