@@ -1,0 +1,7 @@
+numpy==1.19.4
+opencv-python==4.4.0.46
+opencv-contrib-python==4.4.0.46
+pkg-resources==0.0.0
+protobuf==3.13.0
+pyserial==3.4
+six==1.15.0
